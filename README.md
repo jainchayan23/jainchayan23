@@ -1,4 +1,4 @@
-![logo](https://github.com/jainchayan23/jainchayan23/blob/main/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg)
+![logo](https://github.com/jainchayan23/jainchayan23/blob/main/https://www.google.com/url?sa=i&url=https%3A%2F%2Fquickops.pt%2Fen%2Fvagas%2Ffrontend-developer%2F&psig=AOvVaw1MMFDp945MIIvuMTsU8bbu&ust=1723397063264000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLCcz8b46ocDFQAAAAAdAAAAABAJ")
 <h1 align="center">Hi 👋, I'm Chayan Jain</h1>
 <h3 align="center">A passionate Frontend Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://shorturl.at/zP7Q7">
