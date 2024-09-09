@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainchayan23&label=Profile%20views&color=0e75b6&style=flat" alt="jainchayan23" /> </p>
 
-- 🌱 I’m currently learning **Backend Developing**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Frontend Developing**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **chayanjainwork@gmail.com**
 
